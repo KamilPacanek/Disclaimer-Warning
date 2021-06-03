@@ -13,10 +13,8 @@ Kindly be aware that the opinions expressed by the bloggers of this blog and tho
 
 I will not tolerate defamatory or libellous material, obscene content and abusive or intimidating comments. I monitor comments on this website and may remove any material from the website at its sole discretion, without warning and without prejudice to any other accrued rights. I follow my own in-house rules when determining if comments should be published.
 
-The above disclaimers do not limit liability in relation to death or personal injury arising from negligence on my this (infosecninja.blogspot.com) blog/website or my entire github account and it's contents.
+The above disclaimers do not limit liability in relation to death or personal injury arising from negligence on my this (ethicalme.hashnode.dev) blog/website or my entire github account and it's contents.
 
 Whilst precautions are taken to detect computer viruses and ensure security, I cannot guarantee that the website is virus-free and secure.  I shall not be liable for any loss or damage which may occur as a result of any virus or breach of security.
 
-Expressed are all my views and not of my any former company's opinion or it does not directly/indirectly connected to any of my former company's idea/views/insight.
-
-None of my content is meant to be construed as investment advice; it's for educational purposes only. The links in all my GitHub repos, blogs, and any social media contents, including Linkedin, Facebook, and Twitter, are only for reference purposes. My content is accurate as of the posting date but may not be accurate in the future. I am not a financial advisor. I do not provide tax, legal or accounting advice. This material has been prepared for educational purposes only and is not intended to provide, and should not be relied on for, tax, legal or accounting advice. You should consult your own tax, legal and accounting advisors before engaging in any transaction. All of my contents are strictly personal opinions. Please make sure to do your own research. Never take one person's opinion for financial guidance. There are multiple strategies, and not all strategies fit all people. My contents ARE NOT financial advice. You should do your research when picking stocks or cryptocurrencies to invest in.
+Expressed are all my views and not an opinion of my any former company's or company's I am currently working at, or it does not directly/indirectly connected to any of my former company's, or company's I am currently working at, idea/views/insight.
